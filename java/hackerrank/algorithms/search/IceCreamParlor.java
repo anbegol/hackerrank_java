@@ -44,7 +44,7 @@ public class IceCreamParlor {
 			boolean found = false;
 			int i = 0;
 			int result = 0;
-			while (i--> 0 && !found) {
+			while (i < n && !found) {
 				for (int j = i + 1; j < n; j++) {
 					result = arr[i] + arr[j];
 					if (m == result) {
