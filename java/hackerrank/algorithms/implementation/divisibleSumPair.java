@@ -14,7 +14,7 @@ import java.util.Scanner;
  * 5
  *
  */
-public class divisibleSumPair {
+public class DivisibleSumPair {
 	
     public static void main(String[] args) {
         Scanner in = new Scanner(System.in);

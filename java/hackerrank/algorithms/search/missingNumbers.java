@@ -27,7 +27,7 @@ import java.util.Scanner;
  * the same frequency in both lists.
  *
  */
-public class missingNumbers {
+public class MissingNumbers {
 	
 	public static void main(String[] args) {
 		
