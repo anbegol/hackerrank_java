@@ -6,6 +6,10 @@ import java.util.Scanner;
 
 /**
  * First. Partition.
+ * 
+ * {@link QuicksortPartition}
+ * {@link QuicksortSorting}
+ * {@link QuickSortInPlace}
  *
  */
 public class QuicksortPartition {
@@ -53,5 +57,4 @@ public class QuicksortPartition {
     	
     	System.out.println(result.trim());
 	}
-
 }
