@@ -24,7 +24,7 @@ import java.util.Scanner;
  * 
  * {@link InsertionSort} {@link QuicksortPartition} {@link QuicksortSorting} {@link QuickSortInPlace}
  * 
- *
+ * http://www.algorithmist.com/index.php/Quicksort
  */
 public class QuickSortInPlace {
 	
